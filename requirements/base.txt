@@ -1,0 +1,9 @@
+asgiref==3.8.1
+Django==4.2.16
+django-ckeditor==6.5.1
+django-debug-toolbar==4.1.0
+django-extensions==3.2.3
+django-js-asset==2.2.0
+python-dotenv==1.0.0
+sqlparse==0.5.2
+typing_extensions==4.12.2
